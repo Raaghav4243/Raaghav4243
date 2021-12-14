@@ -1,21 +1,19 @@
-<p align="right">
-  <a href="https://wakatime.com/@shakib"><img alt="" src="https://wakatime.com/badge/user/d2d1b7ff-6f82-4abb-8592-fd7cfc351d22.svg"></a>
-  <a href="#"><img alt="" src="https://gpvc.arturio.dev/Mo-Shakib"></a>
-</p>
+
 <h1 align="center">Hi 👋, I'm Raaghav Raj Maiya</h1>
-<h2 align="center">A self learner with a target</h2>
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> 
+<!-- <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3>  -->
 <p align="center">
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
 </p>
 
+<p align="left"> </p>
 
+- 🌱 I’m currently learning **DS Algo**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raaghav4243&label=Profile%20views&color=0e75b6&style=flat" alt="raaghav4243" /> </p>
-<p align="left">
-</p> - 🌱 I’m currently learning **DS Algo** - 📫 How to reach me **raaghav.4243@gmail.com**
+- 📫 How to reach me **raaghav.4243@gmail.com**
+
+<!-- <h3 align="left">Connect with me:</h3>to reach me **raaghav.4243@gmail.com** -->
+</p> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/raaghav-4243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raaghav-4243" height="30" width="40" /></a>
