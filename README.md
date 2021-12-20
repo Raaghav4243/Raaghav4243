@@ -7,7 +7,7 @@
 
 <p align="left"> </p>
 
-- 🌱 I’m currently learning **DS Algo**
+- 🌱 I’m currently practicing **Competitive Programming**
 
 - 📫 How to reach me **raaghav.4243@gmail.com**
 
